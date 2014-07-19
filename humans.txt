@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+   Patrick Godschalk -- Developer -- N/A
+   Sander Plas -- Developer -- N/A
+
+# THANKS
+
+# TECHNOLOGY COLOPHON
+
+   HTML5, CSS3
+   Debian
+   OpenSSL
+   Apache HTTPD
